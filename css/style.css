@@ -145,28 +145,6 @@ header {
     max-width: 100px;
 }
 
-.navbar{
-    background-color: black;
-    border-radius: 30px;
-  }
-
-  .navbar li{
-    float:left;
-    list-style: none; 
-    margin: 13px 106px;
-}
-
-.navbar ul{
-    overflow: auto;
-}
-
-.navbar li a{
-    padding: 3px 3px;
-    text-decoration: none;
-    color: white;
-    font-size: 18px;
-}
-
 .nav-toggle {
     padding: .5em;
     background: transparent;
